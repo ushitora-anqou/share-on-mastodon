@@ -1,5 +1,7 @@
 # Share on Mastodon
 
+**Share on Mastodon** is yet another Firefox add-on to post your favorite Web page on Mastodon with just one click.
+
 ![](screenshot.png)
 
 ## How to Use
